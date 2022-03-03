@@ -1,1 +1,2 @@
-this doing a lot of the thinks 0x00-shell_basics
+#!/bin/bash
+this doing a lot of the thinks
